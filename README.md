@@ -2,7 +2,7 @@
 
 ## Part One: Link to the repository
 
-Link: https://github.com/Simon-Roubal/Digital-electronics-1
+Link: https://github.com/Ondrej-Rysavy/Digital-electronics-1.git
 
 ## Part Two: function f(c,b,a) table
 
