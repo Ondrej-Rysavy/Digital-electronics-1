@@ -51,4 +51,4 @@ begin
     f22_o <= x_i or (y_i and  z_i);
 end architecture dataflow;
 ```
-Screen:
+Screen: ![alt text](https://github.com/Ondrej-Rysavy/Digital-electronics-1/blob/main/01-gates/Labs/3.png?raw=true)
