@@ -17,6 +17,8 @@ Link: https://github.com/Ondrej-Rysavy/Digital-electronics-1.git
 | 1 | 1 | 0 | 0 |
 | 1 | 1 | 1 | 0 |
 
+screen: ![alt text](https://github.com/Ondrej-Rysavy/Digital-electronics-1/blob/main/01-gates/Labs/1.png?raw=true)
+
 ## Part Three: Verification of De Morgan's laws
 
 Link to EDA: https://www.edaplayground.com/x/QeJB
