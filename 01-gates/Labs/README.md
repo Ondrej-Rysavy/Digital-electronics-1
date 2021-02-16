@@ -33,7 +33,7 @@ begin
     fnor_o   <= (a_i nor (not c_i)) nor b_i;
 end architecture dataflow;
 ```
-Screen: ![alt text](https://github.com/Ondrej-Rysavy/Digital-electronics-1/blob/main/01-gates/Labs/2.png?raw=true)
+Screen: ![alt text](https://github.com/Ondrej-Rysavy/Digital-electronics-1/blob/main/01-gates/Labs/dem.png?raw=true)
 
 ## Part Four: Verification of Distributive laws
 
@@ -54,4 +54,4 @@ begin
     f22_o <= x_i or (y_i and  z_i);
 end architecture dataflow;
 ```
-Screen: ![alt text](https://github.com/Ondrej-Rysavy/Digital-electronics-1/blob/main/01-gates/Labs/3.png?raw=true)
+Screen: ![alt text](https://github.com/Ondrej-Rysavy/Digital-electronics-1/blob/main/01-gates/Labs/dist.png?raw=true)
