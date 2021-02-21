@@ -23,7 +23,7 @@ https://github.com/Ondrej-Rysavy/Digital-electronics-1
 | 14 | 1 1 | 1 0 | 1 | 0 | 0 |
 | 15 | 1 1 | 1 1 | 0 | 1 | 0 |
 
-# Part Three: Karnaugh maps and simplified SoP form of the "greater than" function and a PoS form of the "less than" function
+# Karnaugh maps and simplified SoP form of the "greater than" function and a PoS form of the "less than" function
 
 ## Karnaugh maps
 
@@ -43,7 +43,7 @@ B is smaller than A:
 
 ![alt text](https://github.com/Ondrej-Rysavy/Digital-electronics-1/blob/main/02-logic/Labs/rov.png?raw=true)
 
-# Part Four: A 4-bit binary comparator
+# A 4-bit binary comparator
 
 ## Link to EDA
 
@@ -213,6 +213,6 @@ Finding VCD file...
 Done
 ```
 
-## Screenshot of waveforms
+
 
 ![alt text](https://github.com/Ondrej-Rysavy/Digital-electronics-1/blob/main/02-logic/Labs/Vyst.png?raw=true)
