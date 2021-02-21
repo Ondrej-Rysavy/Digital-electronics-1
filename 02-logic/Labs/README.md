@@ -45,7 +45,7 @@ B is less than A:
 
 # A 4-bit binary comparator
 
-## Link to EDAplyground
+## Link to EDAplayground
 
 https://www.edaplayground.com/x/8Qrz
 
