@@ -1,8 +1,8 @@
-# Part One: Link to the repository
+# Link to the repository
 
 https://github.com/Ondrej-Rysavy/Digital-electronics-1
 
-# Part Two: Logic table
+# Logic table
 
 | **Dec. equivalent** | **B[1:0]** | **A[1:0]** | **B is greater than A** | **B equals A** | **B is less than A** |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -27,7 +27,7 @@ https://github.com/Ondrej-Rysavy/Digital-electronics-1
 
 ## Karnaugh maps
 
-B is greater than A: 
+B is bigger than A: 
 
 ![alt text](https://github.com/Ondrej-Rysavy/Digital-electronics-1/blob/main/02-logic/Labs/BvetsiA.png?raw=true)
 
@@ -35,7 +35,7 @@ B equals A:
 
 ![alt text](https://github.com/Ondrej-Rysavy/Digital-electronics-1/blob/main/02-logic/Labs/BrovnoA.png?raw=true)
 
-B is less than A: 
+B is smaller than A: 
 
 ![alt text](https://github.com/Ondrej-Rysavy/Digital-electronics-1/blob/main/02-logic/Labs/BmensiA.png?raw=true)
 
