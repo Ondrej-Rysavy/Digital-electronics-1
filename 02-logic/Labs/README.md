@@ -27,7 +27,7 @@ https://github.com/Ondrej-Rysavy/Digital-electronics-1
 
 ## Karnaugh maps
 
-B is bigger than A: 
+B is greater than A: 
 
 ![alt text](https://github.com/Ondrej-Rysavy/Digital-electronics-1/blob/main/02-logic/Labs/BvetsiA.png?raw=true)
 
@@ -35,7 +35,7 @@ B equals A:
 
 ![alt text](https://github.com/Ondrej-Rysavy/Digital-electronics-1/blob/main/02-logic/Labs/BrovnoA.png?raw=true)
 
-B is smaller than A: 
+B is less than A: 
 
 ![alt text](https://github.com/Ondrej-Rysavy/Digital-electronics-1/blob/main/02-logic/Labs/BmensiA.png?raw=true)
 
