@@ -1,5 +1,5 @@
 # Part One: Link to the reposiory
-https://github.com/Simon-Roubal/Digital-electronics-1/tree/main/Labs/03-vivado
+https://github.com/Ondrej-Rysavy/Digital-electronics-1/tree/main/Labs/03-vivado
 
 ##  Connection of LEDs and switches
 
