@@ -91,7 +91,7 @@ Start **Vivado** in folder **Xilinx Design**.
 
 - **Create Project**
 - **Next** to the second page
-  - Enter **Project name** and choose **Project location** in *D:/Documents/Rubinek/Digital-electronics-1/*... and **Next**.
+  - Enter **Project name** and choose **Project location**  and **Next**.
   - **Next**
   - Add sources **Create File** and type **File name**. All filetypes **VHDL** and **Next**.
   - Switch to tab **Boards** and choose **Nexys A7-50T** and **Next**.
