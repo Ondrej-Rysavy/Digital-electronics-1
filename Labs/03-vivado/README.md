@@ -78,7 +78,7 @@ end architecture testbench;
 
 **Console output:**
 
-![image-20210301212236596](image-20210301212236596.png)
+!https://github.com/Ondrej-Rysavy/Digital-electronics-1/blob/main/Labs/03-vivado/Pictures/out.png
 
 ##  Tutorial
 
