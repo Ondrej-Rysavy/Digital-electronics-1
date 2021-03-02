@@ -78,7 +78,7 @@ end architecture testbench;
 
 **Console output:**
 
-!https://github.com/Ondrej-Rysavy/Digital-electronics-1/blob/main/Labs/03-vivado/Pictures/out.png
+![alt text](https://github.com/Ondrej-Rysavy/Digital-electronics-1/blob/main/Labs/03-vivado/Pictures/out.png?raw=true)
 
 ##  Tutorial
 
