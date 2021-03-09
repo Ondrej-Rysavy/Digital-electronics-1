@@ -1,6 +1,6 @@
 # Link to the repository
 https://github.com/Ondrej-Rysavy/Digital-electronics-1/tree/main/Labs/04-segment
-# Part Two: Decoder truth table for common anode 7-segment display and Table with connection of 7-segment displays
+# Decoder truth table for common anode 7-segment display and Table with connection of 7-segment displays
 ## Decoder truth table
 | **Hex** | **Inputs** | **A** | **B** | **C** | **D** | **E** | **F** | **G** |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
