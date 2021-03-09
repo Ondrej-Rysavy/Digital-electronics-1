@@ -1,5 +1,5 @@
-# Part One: Link to the reposiory
-https://github.com/Simon-Roubal/Digital-electronics-1/tree/main/Labs/04-segment
+# Link to the repository
+https://github.com/Ondrej-Rysavy/Digital-electronics-1/tree/main/Labs/04-segment
 # Part Two: Decoder truth table for common anode 7-segment display and Table with connection of 7-segment displays
 ## Decoder truth table
 | **Hex** | **Inputs** | **A** | **B** | **C** | **D** | **E** | **F** | **G** |
@@ -32,7 +32,7 @@ All 7-seg displays used are with common anode
 | T14 | AN5 | CF | T11 |
 | K2 | AN6 | CG | L18 |
 | U13 | AN7 | DP | H15
-# Part Three: Seven-segment display decoder
+#  Seven-segment display decoder
 ## Listing of VHDL architecture from source file
 ```vhdl
 architecture Behavioral of hex_7seg is
@@ -169,7 +169,7 @@ hex2seg : entity work.hex_7seg
     
 end Behavioral;
 ```
-# Part Four: LED(7:4) indicators
+#  LED(7:4) indicators
 ## Truth table code for LEDs(7:4)
 | **Hex** | **Inputs** | **LED4** | **LED5** | **LED6** | **LED7** |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -212,4 +212,4 @@ end Behavioral;
               '1' when (SW > "0100")else
               '1' when (SW > "1000");
 ```
-## Screenshot with simulated time waveforms
+
