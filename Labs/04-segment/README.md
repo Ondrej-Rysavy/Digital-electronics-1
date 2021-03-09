@@ -213,3 +213,5 @@ end Behavioral;
               '1' when (SW > "1000");
 ```
 
+![alt text](https://github.com/Ondrej-Rysavy/Digital-electronics-1/blob/main/Labs/04-segment/3.2.png?raw=true)
+
