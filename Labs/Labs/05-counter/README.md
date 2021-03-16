@@ -18,7 +18,7 @@ https://github.com/Ondrej-Rysavy/Digital-electronics-1/tree/main/Labs/Labs/05-co
    | 250&nbsp;ms | 25 000 000 | `x"17D_7870"` | `b"0001_0111_1101_0111_1000_0100_0000"` |
    | 500&nbsp;ms | 50 000 000 | `x"2FA_F080"` | `b"0010_1111_1010_1111_0000_1000_0000"` |
    | 1&nbsp;sec | 100 000 000 | `x"5F5_E100"` | `b"0101_1111_0101_1110_0001_0000_0000"` |
-# Part three: Bidirectional counter
+#  Bidirectional counter
 ## VHDL code of the process `p_cnt_up_down`
 ```vhdl
     p_cnt_up_down : process(clk)
@@ -80,7 +80,7 @@ Start of counting with overflow at the end
 Change of counting direction and overflow at the end
 ![obrazek](https://user-images.githubusercontent.com/77580298/111304933-a47e9280-8656-11eb-9ec9-57cc5911ffaa.png)
 
-# Part four: Top level
+#  Top level
 ## VHDL code from source `file top.vhd`
 ```vhdl
 library IEEE;
