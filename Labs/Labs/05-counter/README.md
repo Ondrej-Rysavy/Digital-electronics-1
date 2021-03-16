@@ -1,6 +1,6 @@
-# Part one: Link to the repository
-https://github.com/Simon-Roubal/Digital-electronics-1/tree/main/Labs/05-counter
-# Part two: Connection of push buttons on Nexys A7 board
+#  Link to the repository
+https://github.com/Ondrej-Rysavy/Digital-electronics-1/tree/main/Labs/Labs/05-counter
+#  Connection of push buttons on Nexys A7 board
 ## Table with connection of push buttons
    | **Button** | **Pin** |
    | :-: | :-: |
