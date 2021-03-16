@@ -160,4 +160,4 @@ begin
 
 end architecture Behavioral;
 ```
-## Image of the top layer including both counters
+![alt text](https://github.com/Ondrej-Rysavy/Digital-electronics-1/blob/main/Labs/05-counter/sch.png?raw=true)
