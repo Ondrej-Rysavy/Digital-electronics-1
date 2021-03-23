@@ -254,4 +254,4 @@ end architecture Behavioral;
 ```
 
 ## Task3
-![obrazek3](images/8digit.png)
+![obrazek3](images/333.png)
