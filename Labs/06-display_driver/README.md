@@ -2,7 +2,7 @@
 https://github.com/Ondrej-Rysavy/Digital-electronics-1/tree/main/Labs/06-display_driver
 
 
-![obrazek1](images/wavedrom.png)
+![obrazek1](images/111.png)
 
 ```vhdl
 {
@@ -194,8 +194,7 @@ end architecture testbench;
 ```
 
 ### Simulation
-![obrazek1](images/sim1.png)
-![obrazek2](images/sim2.png)
+![obrazek1](images/222.png)
 
 ### Listing of VHDL architecture of the top layer
 ```vhdl
