@@ -1,7 +1,7 @@
-# DE1_cv6
+# Linkt to the repository
 https://github.com/Ondrej-Rysavy/Digital-electronics-1/tree/main/Labs/06-display_driver
 
-## Task1
+
 ![obrazek1](images/wavedrom.png)
 
 ```vhdl
@@ -32,7 +32,7 @@ https://github.com/Ondrej-Rysavy/Digital-electronics-1/tree/main/Labs/06-display
   },
 }
 ```
-## Task2 
+
 
 ### Listing of VHDL code of the process p_mux with syntax highlighting
 
