@@ -1,5 +1,5 @@
 # DE1_cv6
-[Link to GitHub repository](https://github.com/PedroM42/Digital-electronics-1)
+https://github.com/Ondrej-Rysavy/Digital-electronics-1/tree/main/Labs/06-display_driver
 
 ## Task1
 ![obrazek1](images/wavedrom.png)
