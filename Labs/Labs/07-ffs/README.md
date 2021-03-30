@@ -1,6 +1,6 @@
 # Lab 07-Latches and Flip-flops
 
-[https://github.com/xcadaj00/Digital-electronics-1/](https://github.com/xcadaj00/Digital-electronics-1/)
+https://github.com/Ondrej-Rysavy/Digital-electronics-1/tree/main/Labs/Labs/07-ffs
 
 ## Preparation tasks
 
