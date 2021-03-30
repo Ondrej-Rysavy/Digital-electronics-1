@@ -4,7 +4,7 @@ https://github.com/Ondrej-Rysavy/Digital-electronics-1/blob/main/Labs/Labs/07-ff
 
 ![obrazek](https://user-images.githubusercontent.com/77580298/112829861-05b05800-9092-11eb-910e-8210277d2675.png)
 
-![Characteristic equations](images/eq.gif)
+
 <!--
 \begin{align*}
     q_{n+1}^D = &~ d &\\
