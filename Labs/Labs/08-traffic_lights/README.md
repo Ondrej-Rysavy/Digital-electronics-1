@@ -1,4 +1,4 @@
-# Lab 08 - Traffic light controller
+# #  Link to the repository
 
 https://github.com/Ondrej-Rysavy/Digital-electronics-1/tree/main/Labs/Labs/08-traffic_lights
 
